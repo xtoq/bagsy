@@ -1,15 +1,15 @@
-## Interface: 40000
+## Interface: 60200
 ## Title: Bagsy
 ## Author: Xtoq (maintainer)
 ## Original Author: VagrantEsha
 ## Notes: Bag information display thingy.
-## Version: 3.3-1.0
+## Version: 6.2
 
 ## SavedVariablesPerCharacter: BagsyDB
 
 Embeds\LibStub.lua
-Embeds\CallbackHandler.lua
-Embeds\LibCrayon.lua
+Embeds\CallbackHandler-1.0.lua
+Embeds\LibCrayon-3.0.lua
 Embeds\LibDataBroker-1.1.lua
 
 Bagsy.lua
