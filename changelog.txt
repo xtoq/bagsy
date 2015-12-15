@@ -1,7 +1,16 @@
+12/14/2015
+- change versioning to match current WoW version
+- update TOC to 6.2
+- update embeds: callbackhandler, libdatabroker, libcrayon
+// TODO: remove the class bag shit
+// TODO: investigate option to remove all that shit from the tooltip (grand sweep, not individual)
+// TODO: test with some profession bags (I have a scribe and an enchanter, miner, does someone have a leatherworker?)
+// TODO: add value of items à la Broker Everything: Bags
+
 11/27/2010
-* Updated ToC to 4.0.  I have no issues with this addon, and haven't heard any complaints, so I assume things are fine...?
+- Updated ToC to 4.0.  I have no issues with this addon, and haven't heard any complaints, so I assume things are fine...?
 
 1/9/2010
-* Updated LibDataBroker
-* Updated ToC to 3.3
-* Updated to include inscription bags
+- Updated LibDataBroker
+- Updated ToC to 3.3
+- Updated to include inscription bags
