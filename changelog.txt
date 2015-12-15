@@ -1,0 +1,7 @@
+11/27/2010
+* Updated ToC to 4.0.  I have no issues with this addon, and haven't heard any complaints, so I assume things are fine...?
+
+1/9/2010
+* Updated LibDataBroker
+* Updated ToC to 3.3
+* Updated to include inscription bags
