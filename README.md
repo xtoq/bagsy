@@ -6,7 +6,7 @@ The screenshot below will tell you everything you'll need to know about this plu
 
 ![Screenshot](https://legacy.curseforge.com/media/images/9/485/Bagsy.png)
 
-Set the options in the GUI, and submit tickets on [CurseForge](https://wow.curseforge.com/addons/bagsy/tickets/) or [WoWInterface](https://www.wowinterface.com/downloads/info10599-Bagsy.html#comments) if you run into problems.
+Set the options in the GUI, and submit tickets on [GitHub (preferred)](https://github.com/xtoq/bagsy/issues), [CurseForge](https://wow.curseforge.com/addons/bagsy/tickets/) or [WoWInterface](https://www.wowinterface.com/downloads/info10599-Bagsy.html#comments) if you run into problems.
 
 -----
 
