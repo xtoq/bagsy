@@ -1,6 +1,6 @@
 ## Interface: 60200
 ## Title: Bagsy
-## Author: Xtoq (maintainer)
+## Author: xtoq (maintainer)
 ## Original Author: VagrantEsha
 ## Notes: Bag information display thingy.
 ## Version: 6.2

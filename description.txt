@@ -1,3 +1,32 @@
+#Recently updated!
+
+**Beta version updated for WoW 6.3/ Not currently throwing errors for me on regular toons and bags, but I need to test it with specialty bags. Please file any request and/or problems in the ticket area and I'll do my best to work them out.**
+
+-----
+
+#Bagsy: A DataBroker Plugin
+
+The screenshot below will tell you everything you'll need to know about this plugin, but basically it's all about bag information (free slots, taken slots, that kind of thing).
+
+![Screenshot](http://legacy.curseforge.com/media/images/9/485/Bagsy.png)
+
+-----
+
+#What is DataBroker?
+
+DataBroker is part of a system that's similar to FuBar and its plugins, what you have here is a plugin but you'll also need something to display the output of the plugin.  You have many options for this, and I've listed a number of them below for your perusal, just pick the one that interests you the most.
+
+- [Fortress](http://www.wowinterface.com/downloads/info10401-Fortress.html)
+- [ButtonBin](http://www.wowinterface.com/downloads/info10474-ButtonBin.html)
+- [StatBlockCore](http://www.wowinterface.com/downloads/info9221-StatBlockCore.html)
+- [MakeRocketGoNow](http://www.wowinterface.com/downloads/info9771-MakeRocketGoNow.html )
+- [Carousel](http://www.wowinterface.com/downloads/info10295-Carousel.html)
+- [Titan](http://www.wowinterface.com/downloads/info8092-TitanPanel.html)
+
+-----
+
+#Changelog
+
 ##6.2 - 12/14/2015
 
 - change versioning to match current WoW version
