@@ -1,12 +1,13 @@
+##6.2.1 - 1/20/2016
+
+- try to force update to TOC; my version still says "compatible with 3.3" wtf?
+- actual release version since no bugs have been uncovered (so far!)
+
 ##6.2 - 12/14/2015
 
 - change versioning to match current WoW version
 - update TOC to 6.2
 - update embeds: callbackhandler, libdatabroker, libcrayon
-- // TODO: remove the class bag shizz
-- // TODO: investigate option to remove all that shizz from the tooltip (grand sweep, not individual)
-- // TODO: test with some profession bags (I have a scribe and an enchanter, miner, does someone have a leatherworker?)
-- // TODO: add value of items à la Broker Everything: Bags
 
 ##3.3-1.1 11/27/2010
 

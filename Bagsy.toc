@@ -3,7 +3,7 @@
 ## Author: xtoq (maintainer)
 ## Original Author: VagrantEsha
 ## Notes: Bag information display thingy.
-## Version: 6.2
+## Version: 6.2.1
 
 ## SavedVariablesPerCharacter: BagsyDB
 
